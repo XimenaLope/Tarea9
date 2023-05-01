@@ -1,0 +1,12 @@
+body{
+    font-family: arial;
+    text-align: center;
+}
+
+img{
+    height: 500px;
+}
+
+.oculto{
+    display: none;
+}
